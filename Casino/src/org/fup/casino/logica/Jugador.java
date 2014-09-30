@@ -31,7 +31,7 @@ public class Jugador {
     ArrayList<Carta> cartasJ;
 
     /**
-     * constructor de la clase Dealer
+     * constructor de la clase Jugador
      *
      * @param nombre
      * @param fichas
